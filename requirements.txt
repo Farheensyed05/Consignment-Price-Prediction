@@ -1,0 +1,9 @@
+# Consisment-Price-prediction"
+
+python==3.10
+numpy==1.19.3
+pandas==1.1.4
+scikit-learn==0.24.0
+tensorflow==2.4.0
+Flask==2.1.2
+scikit-learn==0.23.2
