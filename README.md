@@ -19,7 +19,7 @@ The goal of this project is to develop a model that can accurately predict consi
 
 4.[Flask](https://flask.com/)
 
-5.[Stremlit](https://share.streamlit.io/)
+5.[Streamlit](https://share.streamlit.io/)
 
 
 
